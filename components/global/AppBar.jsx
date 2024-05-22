@@ -16,7 +16,7 @@ export default function AppBar() {
               </Link>
 
               <Link
-                href="/"
+                href="/Interaction"
                 title=""
                 className="text-base font-medium text-black"
               >
